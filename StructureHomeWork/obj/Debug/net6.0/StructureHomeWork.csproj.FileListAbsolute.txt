@@ -1,0 +1,15 @@
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\bin\Debug\net6.0\StructureHomeWork.exe
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\bin\Debug\net6.0\StructureHomeWork.deps.json
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\bin\Debug\net6.0\StructureHomeWork.runtimeconfig.json
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\bin\Debug\net6.0\StructureHomeWork.dll
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\bin\Debug\net6.0\StructureHomeWork.pdb
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\obj\Debug\net6.0\StructureHomeWork.csproj.AssemblyReference.cache
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\obj\Debug\net6.0\StructureHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\obj\Debug\net6.0\StructureHomeWork.AssemblyInfoInputs.cache
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\obj\Debug\net6.0\StructureHomeWork.AssemblyInfo.cs
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\obj\Debug\net6.0\StructureHomeWork.csproj.CoreCompileInputs.cache
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\obj\Debug\net6.0\StructureHomeWork.dll
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\obj\Debug\net6.0\refint\StructureHomeWork.dll
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\obj\Debug\net6.0\StructureHomeWork.pdb
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\obj\Debug\net6.0\StructureHomeWork.genruntimeconfig.cache
+F:\Beetroot.Net\Lesson_14\StructureHomeWork\StructureHomeWork\obj\Debug\net6.0\ref\StructureHomeWork.dll
